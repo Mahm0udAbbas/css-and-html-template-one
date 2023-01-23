@@ -85,7 +85,7 @@ i.go-up {
   position: sticky;
   top: 0;
   padding: 20px;
-  background-color: var(--section-background); 
+  background-color: var(--section-background);
   z-index: 3;
 }
 .header .container {
